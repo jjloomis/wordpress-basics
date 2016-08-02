@@ -13,4 +13,8 @@
 * [Creating a Page](creating-a-part.md)
 * Adding content with the Visual editor
 * Adding code with the Text editor
+* Creating a link
+* Adding an image to Post or Page
+* Adding a Featured Image to a Post
+* Deleting a Post or Page
 
