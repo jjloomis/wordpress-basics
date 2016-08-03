@@ -35,3 +35,18 @@
 * Deactivating a Plugin
 * Deleting a Plugin
 
+## Changing the look of your site
+* Adding a theme to your site
+* Changing themes
+* Managing your menu in a new theme
+* Using the Customizer
+* Working with Widgets
+* Updating themes
+
+## Site administration
+* Changing your password
+* Changing your email address
+* Adding a user
+* Managing comments
+* Updating your WordPress installation
+
