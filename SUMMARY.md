@@ -18,3 +18,20 @@
 * Adding a Featured Image to a Post
 * Deleting a Post or Page
 
+## Working with Menus
+* Creating a Menu
+* Adding Pages to a Menu
+* Deleting Pages from a Menu
+* Creating a Custom Link Menu item
+* Changing the name of a button
+* Changing the order of menu items
+* Creating a fly-out menu
+* Saving a Menu
+* Managing Menu locations
+
+## Working with Plugins
+* Adding a Plugin to your site
+* Updating Plugins
+* Deactivating a Plugin
+* Deleting a Plugin
+
