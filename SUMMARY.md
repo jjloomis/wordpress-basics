@@ -33,7 +33,7 @@
 * [Adding a Plugin to your site](adding-a-plugin-to-your-site.md)
 * [Updating Plugins](updating-plugins.md)
 * [Deactivating a Plugin](deactivating-a-plugin.md)
-* Deleting a Plugin
+* [Deleting a Plugin](deleting-a-plugin.md)
 
 ## Changing the look of your site
 * Adding a theme to your site
