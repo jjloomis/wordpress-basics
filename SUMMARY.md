@@ -26,7 +26,7 @@
 * [Changing the name of a button](changing-the-name-of-a-button.md)
 * [Changing the order of Menu items](changing-the-order-of-menu-items.md)
 * [Creating a fly-out Menu](creating-a-fly-out-menu.md)
-* Saving a Menu
+* [Saving a Menu](saving-a-menu.md)
 * Managing Menu locations
 
 ## Working with Plugins
