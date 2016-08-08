@@ -30,7 +30,7 @@
 * [Managing Menu locations](managing-menu-locations.md)
 
 ## Working with Plugins
-* Adding a Plugin to your site
+* [Adding a Plugin to your site](adding-a-plugin-to-your-site.md)
 * Updating Plugins
 * Deactivating a Plugin
 * Deleting a Plugin
