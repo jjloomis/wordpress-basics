@@ -5,7 +5,7 @@
 ## Accessing your WordPress site
 * [Accessing your WordPress site](accessing-your-wordpress-site.md)
 * [Logging into your site](logging-into-your-site.md)
-* Resetting your password
+* [Resetting your password](resetting-your-password.md)
 * Switching from Dashboard to live site
 
 ## Adding content to your site
