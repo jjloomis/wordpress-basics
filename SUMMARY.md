@@ -25,7 +25,7 @@
 * [Creating a Custom Link Menu item](creating-a-custom-link-menu-item.md)
 * [Changing the name of a button](changing-the-name-of-a-button.md)
 * [Changing the order of Menu items](changing-the-order-of-menu-items.md)
-* Creating a fly-out Menu
+* [Creating a fly-out Menu](creating-a-fly-out-menu.md)
 * Saving a Menu
 * Managing Menu locations
 
