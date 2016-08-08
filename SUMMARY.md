@@ -32,7 +32,7 @@
 ## Working with Plugins
 * [Adding a Plugin to your site](adding-a-plugin-to-your-site.md)
 * [Updating Plugins](updating-plugins.md)
-* Deactivating a Plugin
+* [Deactivating a Plugin](deactivating-a-plugin.md)
 * Deleting a Plugin
 
 ## Changing the look of your site
