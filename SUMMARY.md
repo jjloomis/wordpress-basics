@@ -31,7 +31,7 @@
 
 ## Working with Plugins
 * [Adding a Plugin to your site](adding-a-plugin-to-your-site.md)
-* [Updating Plugins](updating-plugins.md)
+* [Updating your Plugins](updating-plugins.md)
 * [Deactivating a Plugin](deactivating-a-plugin.md)
 * [Deleting a Plugin](deleting-a-plugin.md)
 
@@ -44,7 +44,7 @@
 * [Updating your themes](updating-your-themes.md)
 
 ## Site administration
-* Changing your password
+* [Changing your password](changing-your-password.md)
 * Changing your email address
 * Adding a user
 * Managing comments
