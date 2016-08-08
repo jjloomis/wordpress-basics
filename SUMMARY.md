@@ -48,5 +48,5 @@
 * [Changing your email address](changing-your-email-address.md)
 * [Adding a user](adding-a-user.md)
 * [Managing comments](managing-comments.md)
-* Updating your WordPress installation
+* [Updating your WordPress installation](updating-your-wordpress-installation.md)
 
