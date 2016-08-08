@@ -31,7 +31,7 @@
 
 ## Working with Plugins
 * [Adding a Plugin to your site](adding-a-plugin-to-your-site.md)
-* Updating Plugins
+* [Updating Plugins](updating-plugins.md)
 * Deactivating a Plugin
 * Deleting a Plugin
 
