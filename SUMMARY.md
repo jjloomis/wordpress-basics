@@ -37,7 +37,7 @@
 
 ## Changing the look of your site
 * [Adding a theme to your site](adding-a-theme-to-your-site.md)
-* Changing themes
+* [Changing themes](changing-themes.md)
 * Managing your menu in a new theme
 * Using the Customizer
 * Working with Widgets
