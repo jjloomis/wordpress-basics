@@ -19,7 +19,7 @@
 * [Deleting a Post or Page](deleting-a-post-or-page.md)
 
 ## Working with Menus
-* Creating a Menu
+* [Creating a Menu](creating-a-menu.md)
 * Adding Pages to a Menu
 * Deleting Pages from a Menu
 * Creating a Custom Link Menu item
