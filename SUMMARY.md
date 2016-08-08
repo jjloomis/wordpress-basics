@@ -41,7 +41,7 @@
 * [Managing your Menu after switching themes](managing-your-menu-in-a-new-theme.md)
 * [Using the Customizer](using-the-customizer.md)
 * [Working with Widgets](working-with-widgets.md)
-* Updating themes
+* [Updating your themes](updating-your-themes.md)
 
 ## Site administration
 * Changing your password
