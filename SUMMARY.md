@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 
 ## Accessing your WordPress site
-* Accessing your WordPress site
-* Logging into your site
+* [Accessing your WordPress site](accessing-your-wordpress-site.md)
+* [Logging into your site](logging-into-your-site.md)
 * Resetting your password
 * Switching from Dashboard to live site
 
