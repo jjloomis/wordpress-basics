@@ -38,8 +38,8 @@
 ## Changing the look of your site
 * [Adding a theme to your site](adding-a-theme-to-your-site.md)
 * [Changing themes](changing-themes.md)
-* Managing your menu in a new theme
-* Using the Customizer
+* [Managing your Menu after switching themes](managing-your-menu-in-a-new-theme.md)
+* [Using the Customizer](using-the-customizer.md)
 * Working with Widgets
 * Updating themes
 
