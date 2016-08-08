@@ -20,7 +20,7 @@
 
 ## Working with Menus
 * [Creating a Menu](creating-a-menu.md)
-* Adding Pages to a Menu
+* [Adding Pages to a Menu](adding-pages-to-a-menu.md)
 * Deleting Pages from a Menu
 * Creating a Custom Link Menu item
 * Changing the name of a button
