@@ -36,7 +36,7 @@
 * [Deleting a Plugin](deleting-a-plugin.md)
 
 ## Changing the look of your site
-* Adding a theme to your site
+* [Adding a theme to your site](adding-a-theme-to-your-site.md)
 * Changing themes
 * Managing your menu in a new theme
 * Using the Customizer
