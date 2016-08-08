@@ -15,7 +15,7 @@
 * [Adding code with the Text editor](adding-code-with-the-text-editor.md)
 * [Creating a link](creating-a-link.md)
 * [Adding an image to Post or Page](adding-an-image-to-post-or-page.md)
-* Adding a Featured Image to a Post
+* [Adding a Featured Image to a Post](adding-a-featured-image-to-a-post.md)
 * Deleting a Post or Page
 
 ## Working with Menus
