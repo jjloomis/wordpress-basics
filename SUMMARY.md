@@ -21,7 +21,7 @@
 ## Working with Menus
 * [Creating a Menu](creating-a-menu.md)
 * [Adding Pages to a Menu](adding-pages-to-a-menu.md)
-* Deleting Pages from a Menu
+* [Removing Pages from a Menu](deleting-pages-from-a-menu.md)
 * Creating a Custom Link Menu item
 * Changing the name of a button
 * Changing the order of menu items
