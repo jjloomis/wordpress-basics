@@ -40,7 +40,7 @@
 * [Changing themes](changing-themes.md)
 * [Managing your Menu after switching themes](managing-your-menu-in-a-new-theme.md)
 * [Using the Customizer](using-the-customizer.md)
-* Working with Widgets
+* [Working with Widgets](working-with-widgets.md)
 * Updating themes
 
 ## Site administration
