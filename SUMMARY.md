@@ -24,8 +24,8 @@
 * [Removing Pages from a Menu](deleting-pages-from-a-menu.md)
 * [Creating a Custom Link Menu item](creating-a-custom-link-menu-item.md)
 * [Changing the name of a button](changing-the-name-of-a-button.md)
-* Changing the order of menu items
-* Creating a fly-out menu
+* [Changing the order of Menu items](changing-the-order-of-menu-items.md)
+* Creating a fly-out Menu
 * Saving a Menu
 * Managing Menu locations
 
