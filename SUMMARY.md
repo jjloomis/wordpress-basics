@@ -46,7 +46,7 @@
 ## Site administration
 * [Changing your password](changing-your-password.md)
 * [Changing your email address](changing-your-email-address.md)
-* Adding a user
+* [Adding a user](adding-a-user.md)
 * Managing comments
 * Updating your WordPress installation
 
