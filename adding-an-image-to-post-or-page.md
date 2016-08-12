@@ -1,5 +1,7 @@
 # Adding an image to a Post or Page
 
+// Add attachment details info/ step.
+
 1. In the Visual editor, position the cursor where you would like your image to appear. 
 2. Click the Add Media button.
 3. In the Insert Media window, make sure the Upload Files tab is selected.
