@@ -51,4 +51,6 @@
 * [Adding a user](adding-a-user.md)
 * [Managing comments](managing-comments.md)
 * [Updating your WordPress installation](updating-your-wordpress-installation.md)
+* Changing the format of permalinks
+* Creating a static front page
 
