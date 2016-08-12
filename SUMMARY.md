@@ -16,8 +16,9 @@
 * [Creating a link](creating-a-link.md)
 * [Adding an image to Post or Page](adding-an-image-to-post-or-page.md)
 * [Wrapping text to around an image](wrapping-text-to-around-an-image.md)
+* Removing an image from a Post or Page
 * [Adding a Featured Image to a Post](adding-a-featured-image-to-a-post.md)
-* [Deleting a Post or Page](deleting-a-post-or-page.md)
+* Removing an image from a Post or Page
 
 ## Working with Menus
 * [Creating a Menu](creating-a-menu.md)
