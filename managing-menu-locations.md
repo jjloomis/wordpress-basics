@@ -1,4 +1,4 @@
-# Managign Menu location
+# Managign Menu locations
 
 1. From the Dashboard, click Appearance and choose Menus.
 2. Click the Manage Locations tab.
