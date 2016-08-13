@@ -6,3 +6,6 @@ After you install a plugin,
 
 1. From the Dashboard, click Plugins.
 2. In the list of installed plugins, find the plugin you would like to deactivate and click Deactivate.
+
+1. Go to the WordPress Plugin Directory.
+2.
