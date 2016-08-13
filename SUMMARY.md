@@ -45,7 +45,7 @@
 * [Working with Widgets](working-with-widgets.md)
 * [Updating your themes](updating-your-themes.md)
 
-## Site administration
+## Site settings and administration
 * [Changing your password](changing-your-password.md)
 * [Changing your email address](changing-your-email-address.md)
 * [Adding a user](adding-a-user.md)
