@@ -1,6 +1,8 @@
 # Managing your Menu after switching themes
 
-When you change themes, the menu on your live site might change or disappear. To fix this, you need to tell the new theme to use your menu. You do this using the Manage Locations tab.
+When you change themes, the menu on your live site may change or disappear. To fix this, you need to tell the new theme to use your menu. 
+
+
 
 
 
