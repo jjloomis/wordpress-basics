@@ -8,6 +8,6 @@ Depending on how you want to arrange your site, you may or may not want to use w
 2. On the right, you’ll see the Widgetized areas for your theme. To add a Widget to one of these areas, click the Widget's name. 
 3. In the Widget's drop-down list, choose a Widgetized area and click Add Widget.
 5. In the Widgetized area, click the expand button (black arrowhead) to give the Widget a title and/ or tweak its settings (if you're using a social media icons plugin, for example.)
-6. To remove a Widget, expand it in the Widget area and then click the Delete link. 
+6. To remove a Widget, expand button in the Widgetized area and then click the Delete link. 
 
 Note: The Widget area does not use a Save or Publish button. View your site in the browser to make sure your Widgets are set up and working correctly.
