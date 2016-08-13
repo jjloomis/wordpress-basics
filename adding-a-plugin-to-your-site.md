@@ -1,13 +1,13 @@
 # Adding a Plugin to your site
 
-Plugins allow you to customize the functionality of your site. You can and add 
+Plugins allow you to customize the functionality of your site. You can use plugins to:
 
-* Portfolio-style grid
-* Social media icon menu
-* Contact form
-* PDF document embedder
-* Security
-* And more
+* Create a portfolio-style grid
+* Add a social media icon menu
+* Set up a contact form
+* Embed PDF documents
+* Maintain site security
+* And (much much) more
 
 If there's something you'd like your site to do, there's a good chance someone developed a plugin to do it. Just Google whatever it is you’d like to do along with the words “WordPress” and “Plugin.” 
 
