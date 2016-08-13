@@ -1,6 +1,6 @@
 # Adding a Plugin to your site
 
-Plugins allow you to customize the functionality of your site. You can use plugins to:
+Plugins let you customize the functionality of your site. You can use plugins to:
 
 * Create a portfolio-style grid
 * Add a social media icon menu
