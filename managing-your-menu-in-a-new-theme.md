@@ -1,4 +1,7 @@
 # Managing your Menu after switching themes
 
-If you change themes and then find that your navigation menu has disappeared from your site, you’ll need to go into the Menus area and reapply your menu to your site.
+When you change themes, the menu on your live site might change or disappear. To fix this, you need to tell the new theme to use your menu. You do this using the Manage Locations tab.
+
+
+
 
