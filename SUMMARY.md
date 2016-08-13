@@ -18,7 +18,7 @@
 * [Wrapping text to around an image](wrapping-text-to-around-an-image.md)
 * [Removing an image from a Post or Page](removing-an-image-from-a-post-or-page.md)
 * [Adding a Featured Image to a Post](adding-a-featured-image-to-a-post.md)
-* Deleting a Post or Page
+* [Deleting a Post or Page](deleting-a-post-or-page.md)
 
 ## Working with Menus
 * [Creating a Menu](creating-a-menu.md)
