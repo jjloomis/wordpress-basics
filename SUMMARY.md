@@ -25,7 +25,7 @@
 * [Adding Pages to a Menu](adding-pages-to-a-menu.md)
 * [Removing Pages from a Menu](deleting-pages-from-a-menu.md)
 * [Creating a Custom Link Menu item](creating-a-custom-link-menu-item.md)
-* [Changing the name of a button](changing-the-name-of-a-button.md)
+* [Changing a button label](changing-the-name-of-a-button.md)
 * [Changing the order of Menu items](changing-the-order-of-menu-items.md)
 * [Creating a fly-out Menu](creating-a-fly-out-menu.md)
 * [Saving a Menu](saving-a-menu.md)
