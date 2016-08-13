@@ -29,7 +29,7 @@
 * [Changing the order of Menu items](changing-the-order-of-menu-items.md)
 * [Creating a fly-out Menu](creating-a-fly-out-menu.md)
 * [Saving a Menu](saving-a-menu.md)
-* [Managing Menu locations](managing-menu-locations.md)
+* [Managing the Menu location](managing-menu-locations.md)
 
 ## Working with Plugins
 * [Adding a Plugin to your site](adding-a-plugin-to-your-site.md)
@@ -40,7 +40,7 @@
 ## Changing the look of your site
 * [Adding a theme to your site](adding-a-theme-to-your-site.md)
 * [Changing themes](changing-themes.md)
-* [Managing your Menu after switching themes](managing-your-menu-in-a-new-theme.md)
+* [Managing the Menu after switching themes](managing-your-menu-in-a-new-theme.md)
 * [Using the Customizer](using-the-customizer.md)
 * [Working with Widgets](working-with-widgets.md)
 * [Updating your themes](updating-your-themes.md)
