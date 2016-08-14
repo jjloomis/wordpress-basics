@@ -14,9 +14,8 @@ Note: If you still can't login, try using your email address instead of your use
 Common login problems:
 
 * Wrong username is being used.
-* Attempting to login to WordPress.com instead of Digital Media Drive WordPress site.
-* Attempting to to login to WordPress.org
-instead of Digital Media Drive WordPress site.
+* User is attempting to login to WordPress.com instead of Digital Media Drive WordPress site.
+* User is attempting to to login to WordPress.org instead of Digital Media Drive WordPress site.
 
 
 
