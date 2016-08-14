@@ -6,8 +6,8 @@
 4. Go to your UWM email account and check your Inbox for a new email from your WordPress account. (Check your Junk and Clutter folders, if necessary.)
 5. In the Password Reset email, be sure to note the username you created you set up your WordPress site (this is important.)
 6. To reset your password, click the link provided in the email.
-7. Your WordPress site will provide you with password. You can delete this password and enter your own password. Always use a strong password.
-8. After your password is reset, click the Log in link to log in to your account with your correct username and new password.
+7. WordPress will provide you with a new password. You can delete this password and enter a new one. Always use a strong password.
+8. After your password is reset, click the Log in link to log into your account with your correct username and new password.
 
 
 
