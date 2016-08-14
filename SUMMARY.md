@@ -51,7 +51,6 @@
 * [Changing the format of permalinks](changing-the-format-of-permalinks.md)
 * [Changing your password](changing-your-password.md)
 * [Changing your email address](changing-your-email-address.md)
-* [Adding a user](adding-a-user.md)
 * [Managing comments](managing-comments.md)
 * [Updating your WordPress installation](updating-your-wordpress-installation.md)
 
