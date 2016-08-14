@@ -9,13 +9,5 @@
 7. Click Reset Password. 
 8. After your password is reset, log into your site with your new password. 
 
-Note: If you still can't login, try using your email address instead of your username. 
-
-Common login problems:
-
-* Wrong username is being used.
-* User is attempting to login to WordPress.com instead of Digital Media Drive WordPress site.
-* User is attempting to to login to WordPress.org instead of Digital Media Drive WordPress site.
-
 
 
