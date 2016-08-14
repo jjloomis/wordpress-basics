@@ -1,8 +1,10 @@
 # Logging into your site
 
-1. To login to your WordPress site, go to:
+To login to your WordPress site, go to:
 
     `example.digitalmediadrive.com/wp-admin`
 
-2. Enter the username and password you created when you installed WordPress on your server space. If you forgot your username and/ or password, you can reset your password. 
+Be sure to replace `example` with your ePanther username.
+
+Enter the username and password you created when you installed WordPress on your server space. If you forgot your username and/ or password, you can reset your password. 
 
