@@ -7,7 +7,7 @@
 5. In the Password Reset email, be sure to note the username you created you set up your WordPress site (this is important.)
 6. To reset your password, click the link provided in the email.
 7. WordPress will provide you with a new password. You can delete this password and enter a new one. Always use a strong password.
-8. After your password is reset, click the Log in link to log into your account with your correct username and new password.
+8. After your password is reset, click the Log in link to log into your site with your new password.
 
 Note: If you still can't login, try using your email address instead of your username.
 
