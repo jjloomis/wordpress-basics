@@ -1,4 +1,4 @@
-# Changing the name of a button
+# Changing a button label
 
 1. From the Dashboard, click Appearance and choose Menus.
 2. Make sure the Edit Menus tab is selected.
