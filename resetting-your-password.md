@@ -9,7 +9,7 @@
 7. WordPress will provide you with a new password. You can delete this password and enter a new one. Always use a strong password.
 8. After your password is reset, click the Log in link to log into your site with your new password.
 
-Note: If you still can't login, try using your email address instead of your username.
+Note: If you're still having trouble loggin in, try using your email address instead of a username.
 
 Common login problems:
 
