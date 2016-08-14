@@ -2,7 +2,7 @@
 
 To login to your WordPress site, go to:
 
-    `example.digitalmediadrive.com/wp-admin`
+    example.digitalmediadrive.com/wp-admin
 
 Be sure to replace `example` with your ePanther username.
 
