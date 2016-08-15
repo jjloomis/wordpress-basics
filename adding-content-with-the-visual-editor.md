@@ -10,5 +10,4 @@ To format text in the Visual editor, select the text and use the formatting tool
 4. Highlight text in the Visual editor and apply formatting using the formatting tools.
 5. When finished, click Publish or Update.
 
-More information on the tools in the Visual editor can be found on [WordPress.org](https://make.wordpress.org/support/user-manual/content/editors/visual-editor/).
 
