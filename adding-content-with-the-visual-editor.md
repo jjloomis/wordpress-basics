@@ -1,4 +1,4 @@
-# Adding content with the Visual editor
+# Formatting content with the Visual editor
 
 The Visual editor is a WYSIWYG (What You See Is What You Get) editor (similar to Microsoft Word.) To format text in the Visual editor, select the text and use the formatting tools at the top of the editor. 
 
