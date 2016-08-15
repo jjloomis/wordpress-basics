@@ -1,8 +1,8 @@
 # Working with Widgets
 
-Widgets area generally the area on your site that displays Recent Posts, a search bar, Recent Comments, etc. Usually, these appear on the sidebar of your site, but different themes allow for different widget areas (such as header and footer widgets.)
+A widgetized area of a WordPress site usually displays Recent Posts, social media icons, a search bar, etc. These widgets often appear in the sidebar of a site. But different themes have different widgetized areas (in the header and/ or footer, for example.)
 
-Depending on how you want to arrange your site, you may or may not want to use widgets.
+Widgets are optional. 
 
 1. From the Dashboard, click Appearance and choose Widgets.
 2. On the right, you’ll see the Widgetized areas for your theme. To add a Widget to one of these areas, click the Widget's name. 
