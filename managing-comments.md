@@ -1,6 +1,8 @@
 # Managing comments
 
-Because your WordPress site lives on the Internet, you may receive Comments on your Pages and Posts. Often, these Comments are SPAM. Just like email, you’ll need to mark these Comments as SPAM and delete them.
+You may receive Comments on your Pages and Posts. Often, these Comments are SPAM. 
+
+Like email, you’ll need to mark these Comments as SPAM and delete them.
 
 1. From the Dashboard, click Comments.
 2. Select all Comments that you would like to mark as Spam.
