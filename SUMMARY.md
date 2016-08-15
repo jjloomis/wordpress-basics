@@ -48,6 +48,7 @@
 
 ## Site settings and administration
 * [Creating a static front page](creating-a-static-front-page.md)
+* [Creating a page for posts](creating-a-page-for-posts.md)
 * [Changing the format of permalinks](changing-the-format-of-permalinks.md)
 * [Changing your password](changing-your-password.md)
 * [Changing your email address](changing-your-email-address.md)
