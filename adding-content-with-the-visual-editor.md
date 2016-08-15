@@ -1,4 +1,4 @@
-# Formatting content with the Visual editor
+# Working with content in the Visual editor
 
 The Visual editor is a WYSIWYG (What You See Is What You Get) editor similar to Microsoft Word.
 

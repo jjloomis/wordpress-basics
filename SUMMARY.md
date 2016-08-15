@@ -11,7 +11,7 @@
 ## Adding content to your site
 * [Creating a Post](creating-a-post.md)
 * [Creating a Page](creating-a-part.md)
-* [Formatting content with the Visual editor](adding-content-with-the-visual-editor.md)
+* [Working with content in the Visual editor](adding-content-with-the-visual-editor.md)
 * [Adding code with the Text editor](adding-code-with-the-text-editor.md)
 * [Creating a link](creating-a-link.md)
 * [Adding an image to Post or Page](adding-an-image-to-post-or-page.md)
