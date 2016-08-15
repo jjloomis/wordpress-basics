@@ -12,7 +12,6 @@
 * [Creating a Post](creating-a-post.md)
 * [Creating a Page](creating-a-part.md)
 * [Working with content in the Visual editor](adding-content-with-the-visual-editor.md)
-* [Adding code with the Text editor](adding-code-with-the-text-editor.md)
 * [Creating a link](creating-a-link.md)
 * [Adding an image to Post or Page](adding-an-image-to-post-or-page.md)
 * [Wrapping text to around an image](wrapping-text-to-around-an-image.md)
