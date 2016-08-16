@@ -4,4 +4,5 @@
 2. Drag select the link you want to edit.
 3. In the Insert/edit link box, click the Edit link (pencil) icon. Then click the Link options (gear) icon. 
 4. In the Insert/edit link dialog box, you can change the URL, edit the link text, or link to a Post or Page on your site.
-5. 
+5. When finished, click Update. 
+6. Click Publish or Upate for the Post or Page.
