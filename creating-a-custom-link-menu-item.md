@@ -1,5 +1,9 @@
 # Creating a Custom Link Menu item
 
+Note: A Custom Link Menu items should only be used to link to a webpage outside of your site. 
+
+Do not use a Custom Link Menu item to set a static page as your front page or to create a page for posts.
+
 1. From the Dashboard, click Appearance and select Menus.
 2. Make sure the Edit Menus tab is selected.
 3. In the Custom Link area, click the expand button (downward-pointing triangle.)
