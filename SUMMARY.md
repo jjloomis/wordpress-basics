@@ -14,12 +14,13 @@
 * [Working with content in the Visual editor](adding-content-with-the-visual-editor.md)
 * [Working with code in the Text editor](working-with-code-in-the-text-editor.md)
 * [Creating a link](creating-a-link.md)
+* Editing a link
 * [Adding an image to Post or Page](adding-an-image-to-post-or-page.md)
 * [Wrapping text to around an image](wrapping-text-to-around-an-image.md)
 * [Removing an image from a Post or Page](removing-an-image-from-a-post-or-page.md)
 * [Adding a Featured Image to a Post](adding-a-featured-image-to-a-post.md)
 * [Deleting a Post](deleting-a-post.md)
-* [Deleting a Page](deleting-a-page.md)
+* Editing a link
 
 ## Working with Menus
 * [Creating a Menu](creating-a-menu.md)
