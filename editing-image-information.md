@@ -1,1 +1,0 @@
-# Editing image information
