@@ -21,6 +21,7 @@
 * [Adding a Featured Image to a Post](adding-a-featured-image-to-a-post.md)
 * [Deleting a Post](deleting-a-post.md)
 * [Deleting a Page](deleting-a-page.md)
+* [Editing image details](editing-image-details.md)
 
 ## Working with Menus
 * [Creating a Menu](creating-a-menu.md)
