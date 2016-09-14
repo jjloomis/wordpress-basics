@@ -6,8 +6,8 @@
 ## Accessing your WordPress site
 * [Accessing Your Site](accessing-your-wordpress-site.md)
 * [Logging Into Your Site](logging-into-your-site.md)
-* [Resetting your password](resetting-your-password.md)
-* [Switching from Dashboard to live site](switching-from-dashboard-to-live-site.md)
+* [Resetting Your Password](resetting-your-password.md)
+* [Switching From Dashboard to Live Site](switching-from-dashboard-to-live-site.md)
 
 ## Adding content to your site
 * [Creating a Post](creating-a-post.md)
