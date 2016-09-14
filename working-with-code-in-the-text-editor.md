@@ -1,14 +1,13 @@
 # Working with code in the Text editor
 
-The Text editor is text-only editor similar to [Sublime Text](https://www.sublimetext.com/) or [Notepad++](https://notepad-plus-plus.org/).
+The Text editor is text-only editor similar to [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/ "Atom text editor").
 
-Use the Text editor when adding HTML (like embed code) to a Post or Page. 
+Use the Text editor when adding HTML \(like embed code\) to a Post or Page.
 
 1. When working with a Post or Page, select the the Text tab.
-2. To add code, click within the editor and type (or paste) your code. 
+2. To add code, click within the editor and type \(or paste\) your code. 
 3. Use the tag buttons to easily add opening and closing tags to your code. 
 4. When finished, click Publish or Update.
 
-Note: To add space between sections of a Post or Page, you can add `&nbsp` (an HTML non-breaking space) between those sections the Text editor.
-
+Note: To add space between sections of a Post or Page, you can add `&nbsp` \(an HTML non-breaking space\) between those sections the Text editor.
 
