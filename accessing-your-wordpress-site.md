@@ -1,7 +1,7 @@
 # Accessing your WordPress site
 
-To access your WordPress site, go to
+* Open a browser and go to your WordPress and go to your WordPress site's URL. Note: Be sure to replace `example` with your ePanther username.
 
-    example.digitalmediadrive.com
+    epanther.digitalmediadrive.com
 
-Be sure to replace `example` with your ePanther username.
+
