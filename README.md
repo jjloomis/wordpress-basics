@@ -2,7 +2,7 @@
 
 ## About
 
-WordPress Basics. Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
+WordPress: Site Setup and Maintenance for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
 
 ## Credits
 
@@ -19,5 +19,4 @@ To fork this GitBook, make suggestions, or contribute content, visit the [GitHub
 ## License
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
 
