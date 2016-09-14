@@ -4,7 +4,6 @@ The Dashboard controls the backend of your site. It’s what you see when you in
 
 To switch between Dashboard and your live site:
 
-1. Click your name in the upper left.
-2. Choose Dashboard or Visit site (whichever one you want to use.)
-
+1. Click your name in the upper-left corner.
+2. Choose Dashboard or Visit site \(whichever one you want to use.\)
 
