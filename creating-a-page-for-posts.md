@@ -6,5 +6,5 @@ If you set a static page to act as your front page, you can create a page for yo
 2. In the Dashboard, click Settings and choose Reading.
 3. In the Reading Settings area, find the Front page displays area near the top.
 4. Click the radio button next to A static page.
-5. From the Front page drop down list, choose a Page.
-6. When finished, scroll to bottom and click Save Changes
+5. From the Posts page drop down list, choose a Page (Blog, for example.)
+6. When finished, scroll to bottom and click Save Changes.
